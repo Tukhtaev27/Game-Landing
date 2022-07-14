@@ -693,7 +693,7 @@ font-size: 12px;
      transition: 0.5s;
 }
 .fa-facebook-f:hover{
-    color: darkblue;
+    color: rgb(0, 106, 255);
     cursor: pointer;
 }
 .fa-twitter:hover{
